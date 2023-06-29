@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikeK1639
+- 👋 Hi, I’m Mike!
 - 👀 I’m interested in technology, music, and family time!
 - 🌱 I’m currently learning to be a full stack web developer! 
 - 💞️ I’m looking to collaborate on any and all projects! Lets build something!
