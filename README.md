@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike!
 - 👀 I’m interested in technology, music, and family time!
-- 🌱 I’m currently looking to start my career in Web Development!
+- 🌱 I have started my career in Web Development!
 - 💞️ I’m looking to collaborate on any and all projects! Let's build something!
 - 📫 You can contact me on Github!
 
